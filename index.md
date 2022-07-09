@@ -1,15 +1,15 @@
 ## Falong Tan's Homepage
+
+### About me
 Hi, I am an Associate Professor in the department of Statistics at Hunan University. Prior to joining Hunnan University in December 2017, I obtained my Ph.D. from Hong Kong Baptist University University in 2017, under the supervision of Prof. Lixing Zhu. 
 
 ### Education
-
  2014-2017    Ph.D. in Statistics, Hong Kong Baptist University, Hong Kong, China (the 1st year of Ph.D. in Shenzhen University, China) <br/>
  2005-2007    M.S. in Mathematics, Wuhan University, China <br/>
  2001-2005    B.S. in Mathematics, Wuhan University, China <br/>
 
 
 ### Research
-
 #### Publications
 1. Falong Tan, Xuehu Zhu and Lixing Zhu﹡. (2018). A projection-based adaptive-to-model test for regressions. Statistica sinica, 28, 157-188. <br/>
 2. Falong Tan and Lixing Zhu﹡. (2019). Adaptive-to-model checking for regressions with diverging number of predictors. The Annals of Statistics, 47, 1960-1994. <br/>
