@@ -3,9 +3,9 @@ Hi, I am an Associate Professor in the department of Statistics at Hunan Univers
 
 ### Education
 
- 2017    Ph.D. in Statistics, Hong Kong Baptist University, Hong Kong, China (the 1st year of Ph.D. in Shenzhen University, China) <br/>
- 2007    M.S. in Mathematics, Wuhan University, China <br/>
- 2005    B.S. in Mathematics, Wuhan University, China <br/>
+ 2014-2017    Ph.D. in Statistics, Hong Kong Baptist University, Hong Kong, China (the 1st year of Ph.D. in Shenzhen University, China) <br/>
+ 2005-2007    M.S. in Mathematics, Wuhan University, China <br/>
+ 2001-2005    B.S. in Mathematics, Wuhan University, China <br/>
 
 
 ### Research
