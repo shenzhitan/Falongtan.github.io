@@ -1,38 +1,33 @@
-## Home
+## About me
 
-Hi, I am an Associate Professor in the department of Statistics at Hunan University. 
-You can use the [editor on GitHub](https://github.com/shenzhitan/Falongtan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am an Associate Professor in the department of Statistics at Hunan University. Prior to joining Hunnan University in December 2017, I obtained my Ph.D. from Hong Kong Baptist University University in 2017, under the supervision of Prof. Lixing Zhu. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+ 2017    Ph.D. in Statistics, Hong Kong Baptist University, Hong Kong, China (The 1st year of Ph.D., Shenzhen University, China) <br/>
+ 2007    M.S. in Mathematics, Wuhan University, China <br/>
+ 2005    B.S. in Mathematics, Wuhan University, China <br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Research
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
+1. Falong Tan, Xuehu Zhu and Lixing Zhu﹡. (2018). A projection-based adaptive-to-model test for regressions. Statistica sinica, 28, 157-188. <br/>
+2. Falong Tan and Lixing Zhu﹡. (2019). Adaptive-to-model checking for regressions with diverging number of predictors. The Annals of Statistics, 47, 1960-1994. <br/>
+3. Falong Tan, Xuejun Jiang﹡, Xu Guo and Lixing Zhu. (2021). Testing heteroscedasticity for regression models based on projections. Statistica sinica, 31, 625-646。<br/>
+4. Falong Tan and Lixing Zhu﹡. (2022). Integrated conditional moment test and beyond: when the number of covariates is divergent. Biometrika, 109, 103-122.<br/>
 
-- Bulleted
-- List
+### Talks
+2021.07 数据科学与数据智能学术论坛暨数据科学分会2021年学术年会，贵州财经大学，分组报告：Integrated conditional moment test and beyond: when the number of covariates is divergent. <br/>
+2019.12 The 11 th ICSA International Conference, Zhejiang University. Invited presentation: Integrated conditional moment test and beyond: when the number of covariates is divergent. <br/>
+2019.05 The 13 th National Symposium on Survival Analysis and Applied Statistics, Shanxi Normal University. Invited presentation: Adaptive-to-model checking for regressions with diverging number of predictors. <br/>
+2018.05 The 12 th National Symposium on Survival Analysis and Applied Statistics, An Hui University. Invated presentation: A projection based adaptive to model test for regressions. <br/>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shenzhitan/Falongtan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Teaching
+Stochastic process, Spring 2022 <br/>
+Statistical learning, Fall 2021 <br/>
+Statistics for Business ＆ Economics, Spring 2021 <br/>
+Statistical learning, Fall 2020 <br/>
+Statistics for Business ＆ Economics, Spring 2020 <br/>
+Multivariate statistical analysis, Fall 2018 <br/>
+Statistical methods of quality management, Spring 2018 <br/>
